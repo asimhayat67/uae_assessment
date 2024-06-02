@@ -35,8 +35,13 @@ The project utilizes the MVVM architecture pattern along with Dagger Hilt for de
 ## How to Use
 
 1. Clone the repository.
+- https://github.com/asimhayat67/uae_assessment.git
 2. Open in Android Studio.
 3. Build and run on emulator or device.
+4. App live demo link
+- https://drive.google.com/file/d/16agqJQ4U1x55DNHpVixkALQC_LOFQyVC/view?usp=sharing
+5. App apk link
+- https://drive.google.com/file/d/1xbRL5smgEHiEXzI1q8-CDF0QWOtyDhFs/view?usp=sharing
 
 ## Libraries Used
 
