@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_white">#8AFFFFFF</color>
+
+    <color name="text_view_medium">#194695</color>
+    <color name="background">#C1EAC3</color>
+    <color name="text_black">#231F20</color>
+    <color name="header_title">#197046</color>
+    <color name="gray_border">#D5BABABA</color>
+    <color name="text_color_light_black">#231F20</color>
+</resources>
